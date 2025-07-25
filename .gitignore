@@ -1,0 +1,20 @@
+# Bỏ qua file/mục cache và build
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Bỏ qua môi trường ảo
+venv/
+env/
+
+# Bỏ qua file cấu hình editor
+.vscode/
+.idea/
+
+# Bỏ qua file hệ thống
+.DS_Store
+Thumbs.db
